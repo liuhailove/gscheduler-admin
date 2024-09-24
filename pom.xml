@@ -56,11 +56,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-freemarker</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.tctalk</groupId>
-            <artifactId>gscheduler-core</artifactId>
-            <version>1.0.0-RELEASE</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.tctalk</groupId>-->
+<!--            <artifactId>gscheduler-core</artifactId>-->
+<!--            <version>1.0.0-RELEASE</version>-->
+<!--        </dependency>-->
     </dependencies>
 
     <build>
